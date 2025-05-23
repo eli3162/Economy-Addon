@@ -1,5 +1,5 @@
 The ECONOMY ADDON, a Mod based on Money! Created by Ethan Li.
-
+![IMG_1513](https://github.com/user-attachments/assets/de3e9407-a8d4-4960-b60e-a5fff7e6bd28)
 
 
 
